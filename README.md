@@ -13,15 +13,12 @@ If Snowman is picked, enter your letter guesses for the snow-themed word one at 
 For example:
 
 	Target word:		“front”
-	
 	User enters:		“o”
-	
 	Output: 		Make a guess: o
 				Word: --o–
 				Incorrect letters: 
 				Guesses left: 7
 	User enters:		“a”
-	
 	Output:			Make a guess: a
 				Word: --o--
 				Incorrect letters: a
@@ -32,11 +29,9 @@ If Elordle is picked, begin entering your 5-letter guess of the word. If a lette
 For example: 
 
 	Target word: 		“nurse” 
-
 	User enters:		“slope”
-
 	Output: 		Make a guess: slope
-				Word: s - - - E
+				Word: s---E
 				Guesses left: 5
 
 This is because s was not in the right spot, but it is present in the word. E was in the right spot, so it is capitalized.
