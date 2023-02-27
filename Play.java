@@ -61,7 +61,6 @@ public class Play {
 		int curLine = 0;
 		while (file.hasNextLine()) {
 			String word = file.nextLine();
-			word = "frond";
 			if(curLine == randLine) {
 				return word;
 			}
